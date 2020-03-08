@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c239ea5b-6f79-41bb-be90-f9d83ccb4ed1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +29,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1YqBvsKp82Fi0M6HsjnObTbR3vM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -83,30 +84,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="66" key="#com.intellij.ide.util.MemberChooser" timestamp="1583661394826">
+    <state x="488" y="66" key="#com.intellij.ide.util.MemberChooser" timestamp="1583665355758">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="66" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583661394826" />
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1583662763463">
+    <state x="488" y="66" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583665355758" />
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1583665364834">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583662763463" />
-    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1583662763463">
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583665364834" />
+    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1583665364834">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583662763463" />
-    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1583662763463">
+    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583665364834" />
+    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1583665364834">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583662763463" />
-    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1583662763463">
+    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583665364834" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1583665364834">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583662763463" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583665364834" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1583662358797">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583662358797" />
+    <state x="65" y="67" key="new project wizard" timestamp="1583663008765">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="67" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583663008765" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583662018081">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
